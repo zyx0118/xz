@@ -8,11 +8,3 @@ for(var i=2000,sum=0;i<=2100;i++){
 		}
 		console.log(sum);
 	}
-	
-//练习：打印1~20能被3整除的数的乘积	
-/*var num=1;
-for(var i=1;i<=20;i++){
-	if(i%3===0){
-	num*=i;	}
-	}
-	console.log(num);*
